@@ -51,17 +51,6 @@ body {
   align-items: center;
 }
 
-
-.skin {
-  size: 50ch, 89ch;
-  position: relative;
-  bottom: 35%;
-  border-radius: 65%;
-  width: 70%;
-  stroke: #f7f9fa;
-  stroke-width: 10%;
-}
-
 .icon {
   opacity: 0;
 }
